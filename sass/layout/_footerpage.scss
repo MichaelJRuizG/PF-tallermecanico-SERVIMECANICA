@@ -5,7 +5,6 @@
     align-items: center;
     gap: 10px;
 }
-
 .mapa{
     justify-items: start;
     height: auto;
@@ -13,7 +12,6 @@
     box-shadow: 0 0 40px rgba(0, 0, 0, 0.653);
     margin-left: 3%;
 }
-
 .listadatos{
     display: inline;
     color: rgb(229, 229, 229);
@@ -26,12 +24,11 @@
     background-color: rgb(178, 71, 71);
     width: 50%;
     height: auto;
+    ul{
+        line-height: 3vh;
+        padding-left: 10%;
+    }
 }
-.listadatos ul{
-    line-height: 3vh;
-    padding-left: 10%;
-}
-
 .copy{
     text-align: center;
     color: black;
