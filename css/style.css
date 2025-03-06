@@ -135,7 +135,7 @@ header{
     background-image:linear-gradient(rgb(112, 3, 3),rgba(255, 0, 0, 0));
     border-radius: 30px;
 }
-.textslides h5{
+.textslides h4{
     font-size: 120% !important;
     text-shadow: 2px 2px .1px black !important;
     font-weight: bold;
