@@ -10,4 +10,4 @@ Se aprendió y utilizó:
 HTML, CSS, SCSS, Pseudoclases, Boxmodel, BOOSTRAP, Github, animaciones, media queries, entre otros.
 Se realizó un diseño responsive que se adapta a todas las pantallas.
 
-
+Personalmente considero que mi esfuerzo logró superar mis expectaivas iniciales a lo que yo consideraba la creación de un sitio web, este primer proyecto me abre las puertas a seguir aprendiendo e investigando para profundizar en este tema.
